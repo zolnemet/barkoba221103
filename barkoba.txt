@@ -3,3 +3,5 @@ nem
 Cs.: Akkor remélem tárgy? :)
 legyen akkor tárgy :)
 Cs.: Tudom már, BNG router.
+majdnem
+ENOPSS-3564 - [BUG] BNG port view daily update issue
